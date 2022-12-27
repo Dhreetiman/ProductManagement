@@ -316,4 +316,4 @@ const deleteProduct = async (req, res) => {
 
 
 
-module.exports = {createProduct, getProduct, getProductById, updateProduct, deleteProduct}
+module.exports = {createProduct, getProduct, getProductById, updateProduct, deleteProduct} 
